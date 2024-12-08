@@ -1,0 +1,6 @@
+
+train: G:/HACK/Nornikel_graz/datasets/train_data/images/train
+val: G:/HACK/Nornikel_graz/datasets/train_data/images/val
+
+nc: 1  # Обновите количество классов (1 для загрязнения)
+names: ['contaminated']  # Обновите названия классов
